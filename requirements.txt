@@ -1,0 +1,7 @@
+netCDF4
+cartopy
+matplotlib
+numpy
+pandas
+rasterio
+earthengine-api
